@@ -1,0 +1,10 @@
+{
+    "name": "lurri/grab",
+    "description": "belajar grabbing",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require-dev": {
+        "buchin/google-image-grabber": "dev-master"
+    }
+}
